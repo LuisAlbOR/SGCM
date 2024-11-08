@@ -4,3 +4,6 @@ por parte de: Pacientes, Médicos y Admnistradores; estos cuentan con diferentes
 Administrador: crear, eliminar, editar y ver -> Citas médicas, Pacientes, Médicos y Administradores.
 Médico: crear, eliminar, editar y ver -> Citas médicas propias.
 Paciente: crear, eliminar, editar y ver -> Citas médicas propias.
+
+Nota: si se desea ejecutar el programa de forma local es necesario realizar configuraciones tales como:
+instalar mysql 15, la contraseña debe ser:29072003, el puerto por defecto y crear la base de datos 'SGCM'
